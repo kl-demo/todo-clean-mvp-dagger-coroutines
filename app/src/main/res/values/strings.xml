@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TO-DO</string>
+    <string name="add_task">Add</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete_task">Delete the task \'%1$s\'?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_tasks">You have no tasks.</string>
+    <string name="field_is_required">This field is required.</string>
+</resources>
